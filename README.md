@@ -19,8 +19,8 @@ pip install numpy matplotlib
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/linear-regression.git
-   cd linear-regression
+   git clone https://github.com/Aman-raj25/linear_regressor.git
+   cd linear_regressor
    ```
 2. Place your dataset in the project directory as `Data.csv`. The dataset should be in the format:
    ```csv
