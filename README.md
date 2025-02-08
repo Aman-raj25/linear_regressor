@@ -54,12 +54,11 @@ Iteration 100: b = 0.1, m = 1.5, error = 10.2
 Ending point at b = 0.33, m = 2.09, error = 0.096
 ```
 
-## License
-This project is licensed under the **MIT License**.
+## Author
+**Aman Raj**.
 
 ## Contributing
 Feel free to fork this repository and submit **pull requests**. For major changes, please open an issue first to discuss your ideas.
 
----
 Happy Coding! 🚀
 
